@@ -856,7 +856,7 @@ justify-content: center;
 background-color: black;
 transition: all 1s;
 opacity: 0;
-transform: translateX(100%)
+transform: translateY(100%)
 }
 
 .menu-dos a{
@@ -885,7 +885,7 @@ text-align: center;
     background-repeat: no-repeat;
 }
  #menu-logo:checked  ~ .menu-dos{
-    transform: translateX(0%);
+    transform: translateY(0%);
     opacity: .95;
 }
 
