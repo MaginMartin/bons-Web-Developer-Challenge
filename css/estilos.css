@@ -846,6 +846,7 @@ p {
     /* left: -500px; */
     top: 70px;
     z-index: 20;
+    box-sizing: border-box;
 position: absolute;
 width: 100%;
 height: auto;
